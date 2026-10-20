@@ -6,8 +6,8 @@
    2) Never put a service_role/secret key in browser code.
 */
 /* Fill these two values from Supabase Project Settings -> API. Use the publishable/anon key only. NEVER put service_role/secret keys in browser code. */
-window.ARTFLOD_SUPABASE_URL = 'PASTE-YOUR-SUPABASE-PROJECT-URL';
-window.ARTFLOD_SUPABASE_ANON_KEY = 'PASTE-YOUR-SUPABASE-ANON-KEY';
+window.ARTFLOD_SUPABASE_URL = 'https://wkuawcrdmvzaanilgleu.supabase.co';
+window.ARTFLOD_SUPABASE_ANON_KEY = 'sb_publishable_eD0U6VR7dKQcyLjJGn3MbQ_o2wk9bx4';
 
 
 /* ---- ArtFlod Supabase integration ---- */
